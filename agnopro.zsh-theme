@@ -30,7 +30,7 @@ AGNOSTER_COLORS=(
     context_fg 250    # Light Gray
     context_bg 236    # Dark Gray
     go_fg     255  # White
-    go_bg     166  # Orange
+    go_bg     38  # Cyan
     node_fg   255  # White
     node_bg   70   # Green
     dotnet_fg 255  # White
